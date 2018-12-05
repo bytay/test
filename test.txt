@@ -1,14 +1,5 @@
-bing
-yuan
-<<<<<<< HEAD
-kang
-is
-aaaa
-goodboy
-alwaysss
-=======
-handsome
-a
-fucker
-always
->>>>>>> ed1d0e43693380675423cc5f3124d4f200969988
+Johor
+Bahru
+Da
+Zui
+Ba	
